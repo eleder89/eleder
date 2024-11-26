@@ -1,0 +1,27 @@
+
+
+h1 {
+    font-size: 80px;    
+    color: darkred;
+    text-align: center;
+    font-family: Metal Mania, serif;
+}
+
+h2 {
+    font-size: 40px;
+    color: #000;
+    text-align: center;
+    font-family: Jolly Lodger;
+}
+
+li {
+    font-size: 25px;
+    color: blue;
+    font-family: Knewave;
+}
+
+p {
+    font-size: 25px;
+    color: blue;
+    font-family: Knewave;
+}
